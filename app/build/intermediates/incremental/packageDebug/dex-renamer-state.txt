@@ -1,0 +1,7 @@
+#Tue Jul 17 23:19:08 GMT+08:00 2018
+base.0=D\:\\program\\CheapTicket\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_c1159393b0411e259b110c01bf76c3e3cf4b2129
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\program\\CheapTicket\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_e6283c45edd0e7ddb7e87028d7637700e139c79c\\classes.dex
+base.1=D\:\\program\\CheapTicket\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_e6283c45edd0e7ddb7e87028d7637700e139c79c
+file.0=D\:\\program\\CheapTicket\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_c1159393b0411e259b110c01bf76c3e3cf4b2129\\classes.dex

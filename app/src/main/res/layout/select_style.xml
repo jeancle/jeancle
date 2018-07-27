@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#fff"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="@dimen/dm010"
+        android:text="配置"
+        android:textSize="@dimen/dm036" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/dm020"
+        android:layout_marginTop="@dimen/dm020"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <RadioGroup
+            android:id="@+id/rg_select_style"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <RadioButton
+                android:id="@+id/rb_border"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="是否绘制边界"
+                android:textSize="@dimen/dm028" />
+
+            <RadioButton
+                android:id="@+id/rb_color"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="是否填充颜色"
+                android:textSize="@dimen/dm028" />
+        </RadioGroup>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/dm030">
+
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="@dimen/dm010"
+                android:text="填充颜色:"
+                android:textSize="@dimen/dm028" />
+
+            <Spinner
+                android:id="@+id/sp_fill_color"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="@dimen/dm020"
+                android:spinnerMode="dialog" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="@dimen/dm010"
+                android:text="标注:"
+                android:textSize="@dimen/dm028" />
+
+            <Spinner
+                android:id="@+id/sp_mark"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="@dimen/dm020"
+                android:spinnerMode="dialog" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:focusable="true"
+            android:focusableInTouchMode="true"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/dm030"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="@dimen/dm010"
+                android:text="透明度:"
+                android:textSize="@dimen/dm028" />
+
+            <EditText
+                android:id="@+id/et_alpha"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="请输入..."
+                android:textSize="@dimen/dm018" />
+
+
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+
+        android:layout_width="match_parent"
+
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/dm020"
+        android:layout_marginTop="@dimen/dm030">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="@dimen/dm010"
+            android:text="边界颜色:"
+            android:textSize="@dimen/dm028" />
+
+        <Spinner
+            android:id="@+id/sp_border_color"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="@dimen/dm020"
+            android:spinnerMode="dialog" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="@dimen/dm010"
+            android:text="粗细:"
+            android:textSize="@dimen/dm028" />
+
+        <Spinner
+            android:id="@+id/sp_line_width"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:spinnerMode="dialog" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dm080"
+        android:layout_gravity="center_vertical"
+        android:layout_marginBottom="@dimen/dm010"
+        android:layout_marginTop="@dimen/dm040"
+        android:gravity="center">
+
+        <TextView
+            android:id="@+id/tv_set_yes"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginRight="@dimen/dm060"
+            android:background="@color/red"
+            android:gravity="center"
+            android:paddingBottom="@dimen/dm010"
+            android:paddingLeft="@dimen/dm020"
+            android:paddingRight="@dimen/dm020"
+            android:paddingTop="@dimen/dm010"
+            android:text="确定"
+            android:textColor="#fff"
+            android:textSize="@dimen/dm024" />
+
+
+        <TextView
+            android:id="@+id/tv_set_no"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:background="@color/red"
+            android:gravity="center"
+            android:paddingBottom="@dimen/dm010"
+            android:paddingLeft="@dimen/dm020"
+            android:paddingRight="@dimen/dm020"
+            android:paddingTop="@dimen/dm010"
+            android:text="取消"
+            android:textColor="#fff"
+            android:textSize="@dimen/dm024" />
+    </LinearLayout>
+</LinearLayout>

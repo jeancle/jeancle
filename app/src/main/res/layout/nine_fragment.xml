@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/tv_title_nine"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:background="#ED6B77"
+        android:gravity="center"
+        android:padding="@dimen/dm020"
+        android:text="九块九包邮"
+        android:textColor="@color/white"
+        android:textSize="@dimen/dm028" />
+
+    <com.ali.auth.third.ui.webview.TaeWebView
+        android:layout_below="@+id/tv_title_nine"
+        android:id="@+id/wv_nine"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+</RelativeLayout>

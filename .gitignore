@@ -1,0 +1,9 @@
+*.iml
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/com.zcxt.cheap.fragment.welcome.com.zcxt.cheap.activity.login.com.zcxt.cheap.activity.login.build
+/captures
+.externalNativeBuild

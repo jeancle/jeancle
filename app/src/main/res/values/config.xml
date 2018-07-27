@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="test">http://japi.juhe.cn/comic/category</string>
+    <string name="news">http://v.juhe.cn/toutiao/index</string>
+</resources>

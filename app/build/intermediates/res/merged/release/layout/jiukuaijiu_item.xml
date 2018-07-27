@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="@dimen/dm008">
+
+    <android.support.v7.widget.CardView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:cardCornerRadius="@dimen/dm012"
+        app:cardElevation="@dimen/dm005"
+        app:contentPadding="@dimen/dm001">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+
+            <ImageView
+                android:id="@+id/id_good_img"
+                android:layout_width="@dimen/dm300"
+                android:layout_height="@dimen/dm300"
+                android:layout_gravity="center"
+                android:background="@drawable/test_pic" />
+
+            <TextView
+                android:id="@+id/tv_good_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:ellipsize="end"
+                android:lines="1"
+                android:padding="@dimen/dm005"
+                android:text="2017加厚处理厚处2017加厚处理厚处理厚处理理厚处理"
+                android:textColor="@color/black"
+                android:textSize="@dimen/dm020" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:id="@+id/textView4"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/dm008"
+                    android:text="¥"
+                    android:textColor="#f00"
+                    android:textSize="@dimen/dm020" />
+
+                <TextView
+                    android:id="@+id/tv_now_price"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/dm010"
+                    android:text="80"
+                    android:textColor="#f00"
+                    android:textSize="@dimen/dm030" />
+                <TextView
+                    android:id="@+id/tv_old_price"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/dm020"
+                    android:text="¥180"
+                    android:textColor="@color/gray"
+                    android:textSize="@dimen/dm020" />
+
+                <View
+                    android:layout_width="@dimen/dm000"
+                    android:layout_height="match_parent"
+                    android:layout_weight="2" />
+
+                <TextView
+                    android:id="@+id/tv_ticket"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginLeft="@dimen/dm020"
+                    android:layout_marginRight="@dimen/dm020"
+                    android:background="#f00"
+                    android:padding="@dimen/dm003"
+                    android:text="券200元"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/dm020" />
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dm001"
+                android:background="#d7cece" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:id="@+id/tv_sale_count"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:padding="@dimen/dm010"
+                    android:text="月销:1000"
+                    android:textColor="@color/gray"
+                    android:textSize="@dimen/dm020" />
+
+                <TextView
+                    android:id="@+id/tv_place"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/dm020"
+                    android:layout_marginRight="@dimen/dm010"
+                    android:text="苏州"
+                    android:textColor="@color/gray"
+                    android:textSize="@dimen/dm020" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+    </android.support.v7.widget.CardView>
+</LinearLayout>

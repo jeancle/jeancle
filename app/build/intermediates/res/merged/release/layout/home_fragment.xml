@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <android.support.design.widget.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:fitsSystemWindows="true"
+        app:layout_scrollFlags="scroll|enterAlways">
+
+        <android.support.design.widget.CollapsingToolbarLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:collapsedTitleGravity="right"
+            app:contentScrim="@color/colorPrimary"
+            app:expandedTitleGravity="center"
+            app:layout_scrollFlags="scroll|enterAlwaysCollapsed">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <android.support.v4.view.ViewPager
+                    android:id="@+id/vp_home_lunbo"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/dm300"
+                    app:layout_scrollFlags="scroll|enterAlwaysCollapsed" />
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/dm002"
+                    android:background="@color/lightgray" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="@dimen/dm030"
+                    app:layout_scrollFlags="scroll|enterAlwaysCollapsed">
+
+
+                    <TextView
+                        android:id="@+id/tv_home_taoqianggou"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="@dimen/dm030"
+                        android:drawablePadding="@dimen/dm010"
+                        android:drawableTop="@drawable/home_qiang"
+                        android:gravity="center"
+                        android:text="淘抢购"
+                        android:textSize="@dimen/dm026" />
+
+                    <View
+                        android:layout_width="@dimen/dm000"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1" />
+
+                    <TextView
+                        android:id="@+id/tv_home_juhuasuan"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:drawablePadding="@dimen/dm010"
+                        android:drawableTop="@drawable/home_together"
+                        android:gravity="center"
+                        android:text="聚划算"
+                        android:textSize="@dimen/dm026" />
+
+                    <View
+                        android:layout_width="@dimen/dm000"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1" />
+
+                    <TextView
+                        android:id="@+id/tv_home_lingjinbi"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:drawablePadding="@dimen/dm010"
+                        android:drawableTop="@drawable/home_get"
+                        android:gravity="center"
+                        android:text="领金币"
+                        android:textSize="@dimen/dm026" />
+
+                    <View
+                        android:layout_width="@dimen/dm000"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1" />
+
+                    <TextView
+                        android:id="@+id/tv_home_chongzhi"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:drawablePadding="@dimen/dm010"
+                        android:drawableTop="@drawable/home_phone"
+                        android:gravity="center"
+                        android:text="充值中心"
+                        android:textSize="@dimen/dm026" />
+
+
+                </LinearLayout>
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/dm002"
+                    android:background="@color/lightgray" />
+
+            </LinearLayout>
+
+        </android.support.design.widget.CollapsingToolbarLayout>
+
+        <android.support.design.widget.TabLayout
+            android:id="@+id/tl_home_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:tabMode="scrollable" />
+    </android.support.design.widget.AppBarLayout>
+
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/vp_home_content"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior" />
+</android.support.design.widget.CoordinatorLayout>
+
+
+
+

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <!--输入框背景色-->
+    <color name="input_bg">#fff</color>
+    <!--登陆按钮-->
+    <color name="login_login">#f00</color>
+    <!--忘记密码字体颜色-->
+    <color name="forget">#e9ba43</color>
+    <!--登录界面背景色-->
+    <color name="login_bg">#46afcf</color>
+    <!--白色-->
+    <color name="white">#fff</color>
+    <!--红色-->
+    <color name="red">#c21515</color>
+    <!--字体灰色-->
+    <color name="gray">#666666</color>
+    <!--字体黑色-->
+    <color name="black">#212020</color>
+    <!--字体浅灰色-->
+    <color name="lightgray">#afabab</color>
+    <!--导航未选中文字颜色-->
+    <color name="unselect">#707070</color>
+    <!--导航选中文字颜色-->
+    <color name="select">#d81e06</color>
+    <!--我的未选中文字颜色-->
+    <color name="mine_unselect">#707070</color>
+    <!--导航选中文字颜色-->
+    <color name="mine_select">#e4a32b</color>
+</resources>

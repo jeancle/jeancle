@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_forget_pwd"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/login_bg"
+    android:orientation="vertical"
+    tools:context="com.jeancle.cheap.activity.login.FindPwdActivity">
+
+    <include layout="@layout/title" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/dm050"
+        android:layout_marginRight="@dimen/dm050"
+        android:layout_marginTop="@dimen/dm200"
+        android:background="@color/input_bg"
+        android:gravity="center">
+
+        <EditText
+            android:id="@+id/et_findpwd_phone"
+            android:layout_width="0dp"
+            android:layout_height="@dimen/dm090"
+            android:layout_weight="1"
+            android:background="@color/input_bg"
+            android:gravity="center_vertical"
+            android:hint="手机号:"
+            android:paddingLeft="@dimen/dm020" />
+
+        <TextView
+            android:id="@+id/tv_findpwd_getcode"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/input_bg"
+            android:paddingRight="@dimen/dm020"
+            android:text="获取验证码" />
+    </LinearLayout>
+
+    <EditText
+        android:id="@+id/et_findpwd_code"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dm090"
+        android:layout_marginLeft="@dimen/dm050"
+        android:layout_marginRight="@dimen/dm050"
+        android:layout_marginTop="@dimen/dm020"
+        android:background="@color/input_bg"
+        android:gravity="center_vertical"
+        android:hint="验证码:"
+        android:paddingLeft="@dimen/dm020" />
+
+    <EditText
+        android:id="@+id/et_findpwd_new_pwd"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dm090"
+        android:layout_marginLeft="@dimen/dm050"
+        android:layout_marginRight="@dimen/dm050"
+        android:layout_marginTop="@dimen/dm020"
+        android:background="@color/input_bg"
+        android:gravity="center_vertical"
+        android:hint="新密码:"
+        android:paddingLeft="@dimen/dm020" />
+
+    <EditText
+        android:id="@+id/et_findpwd_confirm_pwd"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dm090"
+        android:layout_marginLeft="@dimen/dm050"
+        android:layout_marginRight="@dimen/dm050"
+        android:layout_marginTop="@dimen/dm020"
+        android:background="@color/input_bg"
+        android:gravity="center_vertical"
+        android:hint="确认密码:"
+        android:paddingLeft="@dimen/dm020" />
+
+    <TextView
+        android:id="@+id/tv_findpwd_confirm"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/dm050"
+        android:layout_marginRight="@dimen/dm050"
+        android:layout_marginTop="@dimen/dm050"
+        android:background="@color/login_login"
+        android:gravity="center"
+        android:padding="@dimen/dm020"
+        android:text="确定"
+        android:textColor="@color/input_bg"
+        android:textSize="@dimen/dm028" />
+</LinearLayout>

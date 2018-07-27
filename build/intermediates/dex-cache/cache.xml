@@ -1,0 +1,707 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\program\CheapTicket\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="D:\program\CheapTicket\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_ad1dcc00baea56081dfa48f193d1d8f52b31d3f7\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\program\CheapTicket\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="D:\program\CheapTicket\app\build\intermediates\pre-dexed\release\com.android.support-recyclerview-v7-24.2.1_6d72a53f5a09df58497452cffe6d31e287f1b1cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\program\CheapTicket\app\build\intermediates\exploded-aar\CheapTicket\mylibrary\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="86931294fa9f3a4eb05435c9eaf868b51d98f159">
+        <dex dex="D:\program\CheapTicket\app\build\intermediates\pre-dexed\release\CheapTicket-mylibrary-unspecified_04651a254be87d931e570a43e7634ceef19a3c49.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\disklrucache\4.0.0-RC0\46d23cdc19155c5f0d47ece99ca1c421346c1509\disklrucache-4.0.0-RC0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="46d23cdc19155c5f0d47ece99ca1c421346c1509">
+        <dex dex="D:\program\CheapTicket\app\build\intermediates\pre-dexed\release\disklrucache-4.0.0-RC0_d431b0e88a2aef6ebea526a1486941dd35f60fdb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\program\CheapTicket\app\build\intermediates\exploded-aar\org.xutils\xutils\3.3.40\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e10132f12da0143881647ccbb4cedb494fe0ba41">
+        <dex dex="D:\program\CheapTicket\app\build\intermediates\pre-dexed\release\org.xutils-xutils-3.3.40_be5202088b23d5741131b6a7d9ae38160894ef77.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\program\CheapTicket\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="D:\program\CheapTicket\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_c3d7276d956109620df91c1ee0ee6204ac900c0d\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.taobao.android\mtopsdk_allinone_open\1.2.2.4\6572b3342d7412f86a41193a8570dab8bc096b7b\mtopsdk_allinone_open-1.2.2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6572b3342d7412f86a41193a8570dab8bc096b7b">
+        <dex dex="D:\program\CheapTicket\app\build\intermediates\pre-dexed\release\mtopsdk_allinone_open-1.2.2.4_4a48f1b2264a77935ef505fd74b2c2ffdcabe37d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.taobao.android\alibc_applink\2.0.0.9\4c11cffbca92b7d35905677ddbd3d13440648a71\alibc_applink-2.0.0.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4c11cffbca92b7d35905677ddbd3d13440648a71">
+        <dex dex="D:\program\CheapTicket\app\build\intermediates\pre-dexed\release\alibc_applink-2.0.0.9_55d472b4a995328fb2c778a7b5ddc26ccdc01516.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\program\CheapTicket\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\22.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e1fa5e1123997a55e3ed65b44892993ff4b58cfe">
+        <dex dex="D:\program\CheapTicket\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-22.2.1_ba4a484ae3a8f8d7bc17619dc172e41d18dea987\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\program\CheapTicket\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="D:\program\CheapTicket\app\build\intermediates\pre-dexed\release\com.android.support-animated-vector-drawable-24.2.1_dcd103be0194aaa7cf93f8162f3efd31367da289.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\program\CheapTicket\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f00b1f38a462a635341a6df084df2841d5e173b1">
+        <dex dex="D:\program\CheapTicket\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_e6283c45edd0e7ddb7e87028d7637700e139c79c\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\annotations\4.0.0-RC0\d5dd0afc50069b7fa0fc12ac85f91efa8df4db67\annotations-4.0.0-RC0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5dd0afc50069b7fa0fc12ac85f91efa8df4db67">
+        <dex dex="D:\program\CheapTicket\app\build\intermediates\pre-dexed\release\annotations-4.0.0-RC0_ddf1868d5ced6cb9228d771934fba85168b595ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\program\CheapTicket\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="D:\program\CheapTicket\app\build\intermediates\pre-dexed\release\internal_impl-24.2.1_4ff80596e5033f5bb0a2c406616c98f35870d71f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.alibaba\fastjson\1.2.9\3a6e5f623dccd587c3d3cffd4fde80261f326715\fastjson-1.2.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3a6e5f623dccd587c3d3cffd4fde80261f326715">
+        <dex dex="D:\program\CheapTicket\app\build\intermediates\pre-dexed\release\fastjson-1.2.9_61b5958abd1cb20e5994e6b4535bc05db0c4214a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\program\CheapTicket\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="D:\program\CheapTicket\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.1_a0f7e6a2fdfde0c85efa8f068a4ec91e0549a6f0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\ide\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="D:\program\CheapTicket\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_ba1e324bfaf658aeefece9f34fcf7ebf445ac8ed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\program\CheapTicket\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b223fd8456a129a821dcbf4037fc8783303eae66">
+        <dex dex="D:\program\CheapTicket\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_c1159393b0411e259b110c01bf76c3e3cf4b2129\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\program\CheapTicket\app\build\intermediates\exploded-aar\com.ali.auth.sdk\alibabauth_ui\1.1.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="575fab9c7804d4ea2092bb88a79f0456e63cb41c">
+        <dex dex="D:\program\CheapTicket\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.ali.auth.sdk-alibabauth_ui-1.1.4_6c73c97306fc0af519ec6f14126e8bcc30de0a26\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\program\CheapTicket\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="D:\program\CheapTicket\app\build\intermediates\pre-dexed\release\com.android.support-appcompat-v7-24.2.1_9558337dba2d7539e8bbd00a84bf3358697714f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\4.0.0-RC0\eb86cd1d96acc30dcebf338abaf2c62ca28bf355\glide-4.0.0-RC0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="eb86cd1d96acc30dcebf338abaf2c62ca28bf355">
+        <dex dex="D:\program\CheapTicket\app\build\intermediates\pre-dexed\release\glide-4.0.0-RC0_0590895e7d3811f6541ad13143cb094561c680fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.alibaba.alipay\alipaySingle\20160825\54d2df3b366123f2920605d6906a959619ac4dd8\alipaySingle-20160825.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="54d2df3b366123f2920605d6906a959619ac4dd8">
+        <dex dex="D:\program\CheapTicket\app\build\intermediates\pre-dexed\release\alipaySingle-20160825_03f2c2bf7b5b28056cd733e95adcef9ed72d8398.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.ali.auth.sdk\alibabauth_core\1.1.4\377e320a66002c98933d59e0908a478f59ee73f9\alibabauth_core-1.1.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="377e320a66002c98933d59e0908a478f59ee73f9">
+        <dex dex="D:\program\CheapTicket\app\build\intermediates\pre-dexed\release\alibabauth_core-1.1.4_c28729cd699f3b45e1d941844fd5954e828293bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.0\c4ba5371a29ac9b2ad6129b1d39ea38750043eff\gson-2.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="D:\program\CheapTicket\app\build\intermediates\pre-dexed\release\gson-2.8.0_eca52502deb48db964b5e6d39d16c5eaa7bb0998.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\program\CheapTicket\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="D:\program\CheapTicket\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_95b5f08df7399c4a51afa4999770951375972e03\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.alibaba.mtl\app-monitor-sdk\2.5.1.3_for_bc_proguard\8a852ea5d5257dc7f72f1e4e031531543f15ac26\app-monitor-sdk-2.5.1.3_for_bc_proguard.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a852ea5d5257dc7f72f1e4e031531543f15ac26">
+        <dex dex="D:\program\CheapTicket\app\build\intermediates\pre-dexed\release\app-monitor-sdk-2.5.1.3_for_bc_proguard_79654922242d487e3f75a25c9611e526bba5effb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.ali.auth.sdk\alibabauth_accountlink\1.1.4\fa4b8cab7c8dad87e52d4a5d520aa5d1ca6333f0\alibabauth_accountlink-1.1.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fa4b8cab7c8dad87e52d4a5d520aa5d1ca6333f0">
+        <dex dex="D:\program\CheapTicket\app\build\intermediates\pre-dexed\release\alibabauth_accountlink-1.1.4_36386594d6cdecce11e6be0db1b9282d4a5b3f41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\program\CheapTicket\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="D:\program\CheapTicket\app\build\intermediates\pre-dexed\release\com.android.support-support-compat-24.2.1_e5da3b5504cb0b92cafbc7fff4d8d22e6dede07c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.taobao.android\utdid4all\1.1.5.3_proguard\989c3bb13060da1e3154bfe00236f76453a2725f\utdid4all-1.1.5.3_proguard.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="989c3bb13060da1e3154bfe00236f76453a2725f">
+        <dex dex="D:\program\CheapTicket\app\build\intermediates\pre-dexed\release\utdid4all-1.1.5.3_proguard_c4644e0928cf2b7b92147621cf8f1036733d3c00.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\program\CheapTicket\app\build\intermediates\exploded-aar\com.taobao.android\securitybodyaar3\5.1.25\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a80bcea22652d0ffebfebf944923cc43f13af58">
+        <dex dex="D:\program\CheapTicket\app\build\intermediates\pre-dexed\release\com.taobao.android-securitybodyaar3-5.1.25_050d874864e0912d750cd63739af6bf11cb696ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\program\CheapTicket\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="D:\program\CheapTicket\app\build\intermediates\pre-dexed\release\com.android.support-support-vector-drawable-24.2.1_47c824f475568ff6cc3f9476b7adf19923ce9807.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\program\CheapTicket\app\libs\xUtils-2.6.14.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f10c51f3e0732fdeefe6e104279a58e275879b6c">
+        <dex dex="D:\program\CheapTicket\app\build\intermediates\transforms\dex\debug\folders\1000\2\xUtils-2.6.14_0c91ef164a88217f69e225376c175a7575a56262\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\program\CheapTicket\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="D:\program\CheapTicket\app\build\intermediates\pre-dexed\release\com.android.support-support-media-compat-24.2.1_462f012c2dda6046957f33625064b58d3612746b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\program\CheapTicket\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="D:\program\CheapTicket\app\build\intermediates\pre-dexed\release\internal_impl-24.2.1_a722b0d7ea42a9c24297aeeedb21d15f5f2dbaa0.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.ali.auth.sdk\alibabauth_ext\1.1.4\2fce998d34a1ca3b979dc6b42d902e3b3f35643\alibabauth_ext-1.1.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="02fce998d34a1ca3b979dc6b42d902e3b3f35643">
+        <dex dex="D:\program\CheapTicket\app\build\intermediates\transforms\dex\debug\folders\1000\10\alibabauth_ext-1.1.4_22a97f88599d805d66f81afe6e841aaa23153bb4\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\program\CheapTicket\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="D:\program\CheapTicket\app\build\intermediates\pre-dexed\release\internal_impl-24.2.1_eb28f32514d1c1862a09565eeb3c35edb6913842.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\program\CheapTicket\app\build\intermediates\exploded-aar\com.alibaba.sdk.android\alibc_trade_sdk\3.1.1.11\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="405525e8268d6748fe908ff792217b7620258042">
+        <dex dex="D:\program\CheapTicket\app\build\intermediates\pre-dexed\release\com.alibaba.sdk.android-alibc_trade_sdk-3.1.1.11_f717d212cd04ca97a3cf0a12176006c97b224172.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\gifdecoder\4.0.0-RC0\c64f5d4805b528de434a5a8bb9a8091b6f9cd1a7\gifdecoder-4.0.0-RC0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c64f5d4805b528de434a5a8bb9a8091b6f9cd1a7">
+        <dex dex="D:\program\CheapTicket\app\build\intermediates\pre-dexed\release\gifdecoder-4.0.0-RC0_045747ae56ae2940f709cebf36260d0e5e5daa68.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\program\CheapTicket\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\program\CheapTicket\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_5d51d5853f33c594421b5618c4598ac3aa429f17\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\program\CheapTicket\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="D:\program\CheapTicket\app\build\intermediates\pre-dexed\release\internal_impl-24.2.1_248386af0f7ceff6c0ebe030e1deca4eb70d8c1d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\program\CheapTicket\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="D:\program\CheapTicket\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_2d0fc431ebbe0778a4c38107df4eab0af8e121d8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\disklrucache\4.0.0-RC0\46d23cdc19155c5f0d47ece99ca1c421346c1509\disklrucache-4.0.0-RC0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="46d23cdc19155c5f0d47ece99ca1c421346c1509">
+        <dex dex="D:\program\CheapTicket\app\build\intermediates\transforms\dex\debug\folders\1000\10\disklrucache-4.0.0-RC0_d431b0e88a2aef6ebea526a1486941dd35f60fdb\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\program\CheapTicket\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="D:\program\CheapTicket\app\build\intermediates\pre-dexed\release\com.android.support-support-core-utils-24.2.1_c3d7276d956109620df91c1ee0ee6204ac900c0d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ide\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="D:\program\CheapTicket\app\build\intermediates\pre-dexed\release\support-annotations-25.3.1_ba1e324bfaf658aeefece9f34fcf7ebf445ac8ed.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\program\CheapTicket\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="D:\program\CheapTicket\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.1_6d72a53f5a09df58497452cffe6d31e287f1b1cf\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\program\CheapTicket\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="D:\program\CheapTicket\app\build\intermediates\pre-dexed\release\com.android.support-support-core-ui-24.2.1_ad1dcc00baea56081dfa48f193d1d8f52b31d3f7.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\program\CheapTicket\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="D:\program\CheapTicket\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_dcd103be0194aaa7cf93f8162f3efd31367da289\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.taobao.android\mtopsdk_allinone_open\1.2.2.4\6572b3342d7412f86a41193a8570dab8bc096b7b\mtopsdk_allinone_open-1.2.2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6572b3342d7412f86a41193a8570dab8bc096b7b">
+        <dex dex="D:\program\CheapTicket\app\build\intermediates\transforms\dex\debug\folders\1000\10\mtopsdk_allinone_open-1.2.2.4_4a48f1b2264a77935ef505fd74b2c2ffdcabe37d\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\program\CheapTicket\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e1fa5e1123997a55e3ed65b44892993ff4b58cfe">
+        <dex dex="D:\program\CheapTicket\app\build\intermediates\pre-dexed\release\com.android.support-cardview-v7-22.2.1_ba4a484ae3a8f8d7bc17619dc172e41d18dea987.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.taobao.android\alibc_applink\2.0.0.9\4c11cffbca92b7d35905677ddbd3d13440648a71\alibc_applink-2.0.0.9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4c11cffbca92b7d35905677ddbd3d13440648a71">
+        <dex dex="D:\program\CheapTicket\app\build\intermediates\transforms\dex\debug\folders\1000\10\alibc_applink-2.0.0.9_55d472b4a995328fb2c778a7b5ddc26ccdc01516\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\program\CheapTicket\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="D:\program\CheapTicket\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_9558337dba2d7539e8bbd00a84bf3358697714f8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\program\CheapTicket\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="D:\program\CheapTicket\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_4ff80596e5033f5bb0a2c406616c98f35870d71f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\program\CheapTicket\app\build\intermediates\exploded-aar\com.taobao.android\securityguardaar3\5.1.81\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f067607b0ca6f4421966379283dea27ef7bc63d0">
+        <dex dex="D:\program\CheapTicket\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.taobao.android-securityguardaar3-5.1.81_9824b149bca5a27e1919656b2848f0f700f66e87\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.alibaba\fastjson\1.2.9\3a6e5f623dccd587c3d3cffd4fde80261f326715\fastjson-1.2.9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3a6e5f623dccd587c3d3cffd4fde80261f326715">
+        <dex dex="D:\program\CheapTicket\app\build\intermediates\transforms\dex\debug\folders\1000\10\fastjson-1.2.9_61b5958abd1cb20e5994e6b4535bc05db0c4214a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\4.0.0-RC0\eb86cd1d96acc30dcebf338abaf2c62ca28bf355\glide-4.0.0-RC0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="eb86cd1d96acc30dcebf338abaf2c62ca28bf355">
+        <dex dex="D:\program\CheapTicket\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-4.0.0-RC0_0590895e7d3811f6541ad13143cb094561c680fd\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\program\CheapTicket\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="D:\program\CheapTicket\app\build\intermediates\pre-dexed\release\com.android.support-design-24.2.1_a0f7e6a2fdfde0c85efa8f068a4ec91e0549a6f0.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.alibaba.alipay\alipaySingle\20160825\54d2df3b366123f2920605d6906a959619ac4dd8\alipaySingle-20160825.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="54d2df3b366123f2920605d6906a959619ac4dd8">
+        <dex dex="D:\program\CheapTicket\app\build\intermediates\transforms\dex\debug\folders\1000\10\alipaySingle-20160825_03f2c2bf7b5b28056cd733e95adcef9ed72d8398\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\annotations\4.0.0-RC0\d5dd0afc50069b7fa0fc12ac85f91efa8df4db67\annotations-4.0.0-RC0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5dd0afc50069b7fa0fc12ac85f91efa8df4db67">
+        <dex dex="D:\program\CheapTicket\app\build\intermediates\transforms\dex\debug\folders\1000\10\annotations-4.0.0-RC0_ddf1868d5ced6cb9228d771934fba85168b595ed\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\program\CheapTicket\app\build\intermediates\exploded-aar\com.ali.auth.sdk\alibabauth_ui\1.1.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="575fab9c7804d4ea2092bb88a79f0456e63cb41c">
+        <dex dex="D:\program\CheapTicket\app\build\intermediates\pre-dexed\release\com.ali.auth.sdk-alibabauth_ui-1.1.4_6c73c97306fc0af519ec6f14126e8bcc30de0a26.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.ali.auth.sdk\alibabauth_accountlink\1.1.4\fa4b8cab7c8dad87e52d4a5d520aa5d1ca6333f0\alibabauth_accountlink-1.1.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fa4b8cab7c8dad87e52d4a5d520aa5d1ca6333f0">
+        <dex dex="D:\program\CheapTicket\app\build\intermediates\transforms\dex\debug\folders\1000\10\alibabauth_accountlink-1.1.4_36386594d6cdecce11e6be0db1b9282d4a5b3f41\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\program\CheapTicket\app\build\intermediates\exploded-aar\com.alibaba.sdk.android\alibc_trade_sdk\3.1.1.11\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="405525e8268d6748fe908ff792217b7620258042">
+        <dex dex="D:\program\CheapTicket\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.alibaba.sdk.android-alibc_trade_sdk-3.1.1.11_f717d212cd04ca97a3cf0a12176006c97b224172\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.0\c4ba5371a29ac9b2ad6129b1d39ea38750043eff\gson-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="D:\program\CheapTicket\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.8.0_eca52502deb48db964b5e6d39d16c5eaa7bb0998\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.alibaba.mtl\app-monitor-sdk\2.5.1.3_for_bc_proguard\8a852ea5d5257dc7f72f1e4e031531543f15ac26\app-monitor-sdk-2.5.1.3_for_bc_proguard.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a852ea5d5257dc7f72f1e4e031531543f15ac26">
+        <dex dex="D:\program\CheapTicket\app\build\intermediates\transforms\dex\debug\folders\1000\10\app-monitor-sdk-2.5.1.3_for_bc_proguard_79654922242d487e3f75a25c9611e526bba5effb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\program\CheapTicket\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="D:\program\CheapTicket\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_462f012c2dda6046957f33625064b58d3612746b\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\program\CheapTicket\app\build\intermediates\exploded-aar\com.taobao.android\securityguardaar3\5.1.81\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f067607b0ca6f4421966379283dea27ef7bc63d0">
+        <dex dex="D:\program\CheapTicket\app\build\intermediates\pre-dexed\release\com.taobao.android-securityguardaar3-5.1.81_9824b149bca5a27e1919656b2848f0f700f66e87.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\program\CheapTicket\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="D:\program\CheapTicket\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_a722b0d7ea42a9c24297aeeedb21d15f5f2dbaa0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\program\CheapTicket\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="D:\program\CheapTicket\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_e5da3b5504cb0b92cafbc7fff4d8d22e6dede07c\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\program\CheapTicket\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="D:\program\CheapTicket\app\build\intermediates\pre-dexed\release\internal_impl-24.2.1_95b5f08df7399c4a51afa4999770951375972e03.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.taobao.android\utdid4all\1.1.5.3_proguard\989c3bb13060da1e3154bfe00236f76453a2725f\utdid4all-1.1.5.3_proguard.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="989c3bb13060da1e3154bfe00236f76453a2725f">
+        <dex dex="D:\program\CheapTicket\app\build\intermediates\transforms\dex\debug\folders\1000\10\utdid4all-1.1.5.3_proguard_c4644e0928cf2b7b92147621cf8f1036733d3c00\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.ali.auth.sdk\alibabauth_core\1.1.4\377e320a66002c98933d59e0908a478f59ee73f9\alibabauth_core-1.1.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="377e320a66002c98933d59e0908a478f59ee73f9">
+        <dex dex="D:\program\CheapTicket\app\build\intermediates\transforms\dex\debug\folders\1000\10\alibabauth_core-1.1.4_c28729cd699f3b45e1d941844fd5954e828293bb\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\program\CheapTicket\app\libs\xUtils-2.6.14.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f10c51f3e0732fdeefe6e104279a58e275879b6c">
+        <dex dex="D:\program\CheapTicket\app\build\intermediates\pre-dexed\release\xUtils-2.6.14_0c91ef164a88217f69e225376c175a7575a56262.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\program\CheapTicket\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="D:\program\CheapTicket\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_47c824f475568ff6cc3f9476b7adf19923ce9807\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\program\CheapTicket\app\build\intermediates\exploded-aar\com.taobao.android\securitybodyaar3\5.1.25\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a80bcea22652d0ffebfebf944923cc43f13af58">
+        <dex dex="D:\program\CheapTicket\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.taobao.android-securitybodyaar3-5.1.25_050d874864e0912d750cd63739af6bf11cb696ef\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.ali.auth.sdk\alibabauth_ext\1.1.4\2fce998d34a1ca3b979dc6b42d902e3b3f35643\alibabauth_ext-1.1.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="02fce998d34a1ca3b979dc6b42d902e3b3f35643">
+        <dex dex="D:\program\CheapTicket\app\build\intermediates\pre-dexed\release\alibabauth_ext-1.1.4_22a97f88599d805d66f81afe6e841aaa23153bb4.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\program\CheapTicket\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="D:\program\CheapTicket\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_248386af0f7ceff6c0ebe030e1deca4eb70d8c1d\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\program\CheapTicket\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\program\CheapTicket\app\build\intermediates\pre-dexed\release\com.android.support-support-v4-24.2.1_5d51d5853f33c594421b5618c4598ac3aa429f17.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\program\CheapTicket\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="D:\program\CheapTicket\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_eb28f32514d1c1862a09565eeb3c35edb6913842\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\gifdecoder\4.0.0-RC0\c64f5d4805b528de434a5a8bb9a8091b6f9cd1a7\gifdecoder-4.0.0-RC0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c64f5d4805b528de434a5a8bb9a8091b6f9cd1a7">
+        <dex dex="D:\program\CheapTicket\app\build\intermediates\transforms\dex\debug\folders\1000\10\gifdecoder-4.0.0-RC0_045747ae56ae2940f709cebf36260d0e5e5daa68\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\program\CheapTicket\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="D:\program\CheapTicket\app\build\intermediates\pre-dexed\release\com.android.support-support-fragment-24.2.1_2d0fc431ebbe0778a4c38107df4eab0af8e121d8.jar" />
+    </item>
+
+</items>

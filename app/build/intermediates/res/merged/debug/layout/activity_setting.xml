@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_setting"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.jeancle.cheap.activity.SettingActivity">
+
+    <include layout="@layout/title" />
+
+    <TextView
+        android:id="@+id/tv_setting_address"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/dm040"
+        android:layout_marginRight="@dimen/dm040"
+        android:layout_marginTop="@dimen/dm080"
+        android:background="@drawable/mine_shape"
+        android:drawablePadding="@dimen/dm020"
+        android:drawableRight="@drawable/right"
+        android:gravity="center_vertical"
+        android:paddingBottom="@dimen/dm020"
+        android:paddingLeft="@dimen/dm040"
+        android:paddingRight="@dimen/dm020"
+        android:paddingTop="@dimen/dm020"
+        android:text="收货地址"
+        android:textSize="@dimen/dm026" />
+
+    <TextView
+        android:id="@+id/tv_setting_aboutus"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/dm040"
+        android:layout_marginRight="@dimen/dm040"
+        android:layout_marginTop="@dimen/dm020"
+        android:background="@drawable/mine_shape"
+        android:drawablePadding="@dimen/dm020"
+        android:drawableRight="@drawable/right"
+        android:gravity="center_vertical"
+        android:paddingBottom="@dimen/dm020"
+        android:paddingLeft="@dimen/dm040"
+        android:paddingRight="@dimen/dm020"
+        android:paddingTop="@dimen/dm020"
+        android:text="关于我们"
+        android:textSize="@dimen/dm026" />
+
+    <LinearLayout
+        android:id="@+id/ll_setting_clear"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/dm040"
+        android:layout_marginRight="@dimen/dm040"
+        android:layout_marginTop="@dimen/dm020"
+        android:background="@drawable/mine_shape"
+        android:drawablePadding="@dimen/dm020"
+        android:drawableRight="@drawable/right"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:paddingBottom="@dimen/dm020"
+        android:paddingLeft="@dimen/dm040"
+        android:paddingRight="@dimen/dm020"
+        android:paddingTop="@dimen/dm020">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="清空缓存"
+            android:textSize="@dimen/dm026" />
+
+        <TextView
+            android:id="@+id/tv_setting_cash"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:drawablePadding="@dimen/dm010"
+            android:drawableRight="@drawable/right"
+            android:text="0KB"
+            android:textSize="@dimen/dm026" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/tv_setting_check"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/dm040"
+        android:layout_marginRight="@dimen/dm040"
+        android:layout_marginTop="@dimen/dm020"
+        android:background="@drawable/mine_shape"
+        android:drawablePadding="@dimen/dm020"
+        android:drawableRight="@drawable/right"
+        android:gravity="center_vertical"
+        android:paddingBottom="@dimen/dm020"
+        android:paddingLeft="@dimen/dm040"
+        android:paddingRight="@dimen/dm020"
+        android:paddingTop="@dimen/dm020"
+        android:text="检查更新"
+        android:textSize="@dimen/dm026" />
+
+    <TextView
+        android:id="@+id/tv_setting_exit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/dm040"
+        android:layout_marginRight="@dimen/dm040"
+        android:layout_marginTop="@dimen/dm050"
+        android:background="@drawable/mine_shape"
+        android:drawablePadding="@dimen/dm020"
+        android:drawableRight="@drawable/right"
+        android:gravity="center_vertical"
+        android:paddingBottom="@dimen/dm020"
+        android:paddingLeft="@dimen/dm040"
+        android:paddingRight="@dimen/dm020"
+        android:paddingTop="@dimen/dm020"
+        android:text="退出账号"
+        android:textSize="@dimen/dm026" />
+</LinearLayout>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_register"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/login_bg"
+    android:orientation="vertical"
+    tools:context="com.jeancle.cheap.activity.login.RegisterActivity">
+
+    <include layout="@layout/title" />
+
+    <EditText
+        android:id="@+id/et_register_account"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dm090"
+        android:layout_marginLeft="@dimen/dm050"
+        android:layout_marginRight="@dimen/dm050"
+        android:layout_marginTop="@dimen/dm200"
+        android:background="@color/input_bg"
+        android:gravity="center_vertical"
+        android:hint="帐户:"
+        android:paddingLeft="@dimen/dm020" />
+
+    <EditText
+        android:id="@+id/et_register_pwd"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dm090"
+        android:layout_marginLeft="@dimen/dm050"
+        android:layout_marginRight="@dimen/dm050"
+        android:layout_marginTop="@dimen/dm020"
+        android:background="@color/input_bg"
+        android:gravity="center_vertical"
+        android:hint="密码:"
+        android:paddingLeft="@dimen/dm020" />
+
+    <EditText
+        android:id="@+id/et_register_confirm_pwd"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dm090"
+        android:layout_marginLeft="@dimen/dm050"
+        android:layout_marginRight="@dimen/dm050"
+        android:layout_marginTop="@dimen/dm020"
+        android:background="@color/input_bg"
+        android:gravity="center_vertical"
+        android:hint="确认密码:"
+        android:paddingLeft="@dimen/dm020" />
+
+    <TextView
+        android:id="@+id/tv_register"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/dm050"
+        android:layout_marginRight="@dimen/dm050"
+        android:layout_marginTop="@dimen/dm050"
+        android:background="@color/login_login"
+        android:gravity="center"
+        android:padding="@dimen/dm020"
+        android:text="注册"
+        android:textColor="@color/input_bg"
+        android:textSize="@dimen/dm028" />
+</LinearLayout>
